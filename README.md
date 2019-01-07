@@ -1,5 +1,5 @@
 # Nhập Môn Lập Trình
-Project gồm 1 đồ án cá nhân giữa kỳ và 1 đồ án cá nhân cuối kỳ
+Project gồm 1 đồ án cá nhân giữa kỳ và 1 đồ án cá nhân cuối kỳ. Trong đồ án này, chỉ được dùng mảng 1 chiều và các kiểu dữ liệu đơn giản để lưu thông tin, không được sử dụng class, struct,...
 ## Tổng quan đồ án:
 ### Đồ án 1: Quản lý thư viện đơn giản:
   **Thư viện có các chức năng sau:**
